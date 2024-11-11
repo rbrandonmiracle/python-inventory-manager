@@ -1,0 +1,7 @@
+ItemID,Manufacturer,Item,UnitCost,UnitPrice,Stock,SKU
+1046,Apple,iPhone 6/6S,250.0,449.0,12,AIP600234
+1048,Apple,iPhone 7 Plus,325.0,599.0,6,AIP7P0939
+1065,Apple,iPad Pro,425.0,849.0,22,AIDP900212
+1141,Samsung,Galaxy S10,200.0,569.0,10,SGS100399
+1158,Samsung,Galaxy Note 8,255.0,499.0,16,SGN800818
+1159,Samsung,Galaxy Note 9,295.0,549.0,22,SGN900223
